@@ -81,7 +81,6 @@ public class GreetController {
     <div class="container">
         <h1>🚀 Spring Boot on AWS EC2</h1>
         <p>Your backend is successfully deployed and running live!</p>
-        
         <div class="badge">Status: LIVE ✅</div>
     </div>
 
